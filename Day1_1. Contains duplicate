@@ -1,8 +1,24 @@
+Problem: Contains Duplicate
+
+Difficulty: Easy
+
+Time Complexity: O(n)
+
+Space Complexity: O(n)
+
+Key Insight
+
+Use a hash set to keep track of numbers we've already seen.
+
+As we iterate through the array:
+- If the current number is already in the set, we've found a duplicate and can immediately return `True`.
+- Otherwise, add the number to the set and continue.
+
+Solution:
+
+```python
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        '''plan
-        loop through, any number, check if already seen, if yh, return true, else add to seen and keep looping, if we reach the end, return false
-        '''
         if not nums:
             return False
 
@@ -14,5 +30,3 @@ class Solution:
             seen.add(num)
 
         return False
-
-# space and time complexity: O(n) worstcase
