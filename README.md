@@ -1,4 +1,4 @@
-# LeetCode Journey 🚀
+# LeetCode Journey with Python 🚀
 Solving 2 LeetCode problems per day to sharpen my problem-solving skills, strengthen data structures & algorithms fundamentals, and prepare for high-impact software engineering opportunities.
 
 
