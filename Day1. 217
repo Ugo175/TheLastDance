@@ -1,0 +1,18 @@
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+        '''plan
+        loop through, any number, check if already seen, if yh, return true, else add to seen and keep looping, if we reach the end, return false
+        '''
+        if not nums:
+            return False
+
+        seen = set()
+
+        for num in nums:
+            if num in seen:
+                return True
+            seen.add(num)
+
+        return False
+
+# space and time complexity: O(n) worstcase
