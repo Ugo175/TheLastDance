@@ -55,9 +55,9 @@ For every problem, I follow the **UMPIRE** interview methodology.
 
 | Month | Problems Solved |
 |---------|---------|
-| September 2026 | 7 |
+| September 2026 | 9 |
 
-**Total Solved:** 7
+**Total Solved:** 9
 
 ---
 
