@@ -41,7 +41,7 @@ For every problem, I follow the **UMPIRE** interview methodology.
 
 ## Challenge Goals
 
-- Solve 2 LeetCode problems daily
+- Solve at least 2 LeetCode problems daily
 - Write clean and optimized solutions
 - Document patterns and lessons learned
 - Improve speed and interview readiness
@@ -134,7 +134,7 @@ What I Learned
 
 Every day I will:
 
-- Solve 2 LeetCode problems
+- Solve at least 2 LeetCode problems
 - Apply the UMPIRE framework
 - Push all solutions to GitHub
 - Document patterns and lessons learned
